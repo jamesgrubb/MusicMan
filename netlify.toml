@@ -1,4 +1,3 @@
 [build]
 base = "web/"
-publish = "build/"
 command = "gatsby build"
